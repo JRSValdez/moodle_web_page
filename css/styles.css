@@ -834,7 +834,8 @@ input[type="checkbox"] {
 .slider-1 {
   padding-top: 2.9rem;
   padding-bottom: 11rem;
-  background-color: #262431;
+  background: url(../images/video-background.jpg) center center no-repeat;
+  background-size: cover;
 }
 
 .slider-1 .slider-container {
