@@ -7,7 +7,7 @@
 (function ($) {
   "use strict";
 
-  const API_URL = "http://localhost:3500/graphql";
+  const API_URL = "https://roma-solutions-contact-form.now.sh/graphql";
 
   /* Preloader */
   $(window).on("load", function () {
