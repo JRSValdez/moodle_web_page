@@ -67,7 +67,7 @@
       <!-- <a class="navbar-brand logo-text page-scroll" href="index.html">Leno</a> -->
 
       <!-- Image Logo -->
-      <a class="navbar-brand logo-image" href="index.html"
+      <a class="navbar-brand logo-image" href="index.php"
         ><img src="images/logo2.svg" alt="alternative"
       /></a>
 
@@ -145,7 +145,7 @@
         <div class="row">
           <div class="col-lg-12">
             <div class="breadcrumbs">
-              <a href="index.html">Home</a
+              <a href="index.php">Home</a
               ><i class="fa fa-angle-double-right"></i
               ><span>Software a la medida</span>
             </div>
@@ -507,7 +507,7 @@
               </div>
             </div>
 
-            <a class="btn-outline-reg back" href="index.html">Atrás</a>
+            <a class="btn-outline-reg back" href="index.php">Atrás</a>
           </div>
           <!-- end of col-->
         </div>
@@ -524,7 +524,7 @@
         <div class="row">
           <div class="col-lg-12">
             <div class="breadcrumbs">
-              <a href="index.html">Home</a
+              <a href="index.php">Home</a
               ><i class="fa fa-angle-double-right"></i
               ><span>Software a la medida</span>
             </div>

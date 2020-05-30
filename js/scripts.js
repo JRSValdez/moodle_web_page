@@ -170,8 +170,8 @@
             var m = url.match(/[\\?\\&]v=([^\\?\\&]+)/);
             if (!m || !m[1]) return null;
             return m[1];
-          },
-          src: "https://www.youtube.com/embed/%id%?autoplay=1",
+          }, 
+          src: "https://www.youtube.com/embed/1i6IUzCTVRw?autoplay=1",
         },
         vimeo: {
           index: "vimeo.com/",
