@@ -538,7 +538,7 @@
                         <img
                           width="100px"
                           height="100px"
-                          src="./images/logo_wh.webp"
+                          src="./images/logo_wh.png"
                         />
                       </td>
                       <td>
