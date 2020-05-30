@@ -1019,7 +1019,7 @@
                 <td>
                   <a
                     style="text-decoration: none;"
-                    href="https://wa.me/79479417"
+                    href="https://wa.me/50379479417"
                     target="_blank"
                   >
                     <h4 class="ml-4">+503 7947 9417</h4>
