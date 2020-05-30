@@ -67,7 +67,7 @@
       <!-- <a class="navbar-brand logo-text page-scroll" href="index.html">Leno</a> -->
 
       <!-- Image Logo -->
-      <a class="navbar-brand logo-image" href="index.html"
+      <a class="navbar-brand logo-image" href="index.php"
         ><img src="images/logo2.svg" alt="alternative"
       /></a>
 
@@ -705,7 +705,7 @@
               <td>Accesibilidad y compatibilidad desde cualquier navegador</td>
             </tr>
           </table>
-          <a class="btn-solid-reg" href="./moodle-details.html"
+          <a class="btn-solid-reg" href="./moodle-details.php"
             >Más información</a
           >
           <a class="btn-outline-reg mfp-close as-button" href="#details">
@@ -773,7 +773,7 @@
               <td>MySql, PostgreSQL, Oracle, SQL Sever</td>
             </tr>
           </table>
-          <a class="btn-solid-reg" href="./software-a-la-medida.html"
+          <a class="btn-solid-reg" href="./software-a-la-medida.php"
             >Más información</a
           >
           <a class="btn-outline-reg mfp-close as-button" href="#details"

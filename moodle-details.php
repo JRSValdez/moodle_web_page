@@ -30,7 +30,7 @@
     <meta property="og:type" content="article" />
 
     <!-- Website Title -->
-    <title>ROMA Solutions - Software a la medida</title>
+    <title>ROMA Solutions</title>
 
     <!-- Styles -->
     <link
@@ -48,7 +48,7 @@
     <link href="css/styles.css" rel="stylesheet" />
 
     <!-- Favicon  -->
-    <link rel="icon" href="images/logo1.svg" />
+    <link rel="icon" href="images/favicon.png" />
   </head>
   <body data-spy="scroll" data-target=".fixed-top">
     <!-- Preloader -->
@@ -67,7 +67,7 @@
       <!-- <a class="navbar-brand logo-text page-scroll" href="index.html">Leno</a> -->
 
       <!-- Image Logo -->
-      <a class="navbar-brand logo-image" href="index.html"
+      <a class="navbar-brand logo-image" href="index.php"
         ><img src="images/logo2.svg" alt="alternative"
       /></a>
 
@@ -124,11 +124,11 @@
         <div class="row align-items-center justify-content-center">
           <div class="col-md-4 align-items-end">
             <div class="img-fluid">
-              <img width="200px" src="./images/software-a-la-medida.png" />
+              <img width="200px" src="./images/moodle/moodle_logo.png" />
             </div>
           </div>
           <div class="col-md-8 align-items-start">
-            <h1>Software a la medida</h1>
+            <h1>Implementación de Moodle</h1>
           </div>
           <!-- end of col -->
         </div>
@@ -145,9 +145,9 @@
         <div class="row">
           <div class="col-lg-12">
             <div class="breadcrumbs">
-              <a href="index.html">Home</a
+              <a href="index.php">Home</a
               ><i class="fa fa-angle-double-right"></i
-              ><span>Software a la medida</span>
+              ><span>Implementación de Moodle</span>
             </div>
             <!-- end of breadcrumbs -->
           </div>
@@ -166,13 +166,17 @@
         <div class="row">
           <div class="col-lg-10 offset-lg-1">
             <div class="text-container">
-              <h3>Software a la medida</h3>
+              <h3>Moodle</h3>
               <p>
-                Como ROMA Solutions desarrollamos e implementamos software que
-                se ajusta a las necesidades y presupuesto de nuestros clientes.
+                Moodle es una aplicación web que sirven para la gestión de cursos educativos en línea,
+                que ofrecen la posibilidad de crear comunidades de aprendizaje. Con Moodle se cambia
+                la forma tradicional de traspaso de información profesor-alumno a este modelo
+                de curso virtual donde la comunidad de estudiantes puede compartir entre sí y hacer
+                partícipe al profesor de su visión del contenido impartido, pueden establecer
+                procesos de evaluación en línea y conferencias virtuales.
               </p>
               <h3>
-                Plataformas de trabajo:
+                Características de moodle:
               </h3>
               <div class="row">
                 <div class="col-md-6">
@@ -180,43 +184,67 @@
                     <li class="media">
                       <i class="fas fa-square"></i>
                       <div class="media-body">
-                        Plataformas educativas
+                        Escalable a cualquier tamaño.
                       </div>
                     </li>
                     <li class="media">
                       <i class="fas fa-square"></i>
                       <div class="media-body">
-                        Sistemas contables
+                        Altamente flexible y completamente personalizable.
                       </div>
                     </li>
                     <li class="media">
                       <i class="fas fa-square"></i>
                       <div class="media-body">
-                        Aplicaciones móviles
+                        Robusto,seguro y privado.
                       </div>
                     </li>
                     <li class="media">
                       <i class="fas fa-square"></i>
                       <div class="media-body">
-                        Aplicaciones web
+                        Facilidad de administracion.
                       </div>
                     </li>
                     <li class="media">
                       <i class="fas fa-square"></i>
                       <div class="media-body">
-                        Reportería
+                        Gestión de Perfiles de Usuario.
+                      </div>
+                    </li>
+                  </ul>
+                </div>
+                <!-- end of col -->
+
+                <div class="col-md-6">
+                  <ul class="list-unstyled li-space-lg indent">
+                    <li class="media">
+                      <i class="fas fa-square"></i>
+                      <div class="media-body">
+                        Permite realizar exámenes en línea.
                       </div>
                     </li>
                     <li class="media">
                       <i class="fas fa-square"></i>
                       <div class="media-body">
-                        Consultoría
+                        Puntuación basada en Competencias.
                       </div>
                     </li>
                     <li class="media">
                       <i class="fas fa-square"></i>
                       <div class="media-body">
-                        Plataformas publicitarias
+                        Permite la implementación de aulas virtuales.
+                      </div>
+                    </li>
+                    <li class="media">
+                      <i class="fas fa-square"></i>
+                      <div class="media-body">
+                        Siempre actualizada.
+                      </div>
+                    </li>
+                    <li class="media">
+                      <i class="fas fa-square"></i>
+                      <div class="media-body">
+                        Capacidad multilingüe.
                       </div>
                     </li>
                   </ul>
@@ -228,42 +256,62 @@
             <!-- end of text-container-->
 
             <div class="text-container">
-              <h3>Nuestra experiencia</h3>
-              <p>
-                Contamos con un equipo de profesionales en tecnología con amplia
-                experiencia trabajando en la siguiente Plataformas:
-              </p>
+              <h3>Beneficios de usar moodle</h3>
               <div class="row">
                 <div class="col-md-6">
                   <ul class="list-unstyled li-space-lg indent">
                     <li class="media">
                       <i class="fas fa-square"></i>
                       <div class="media-body">
-                        implementación y configuración de MOODLE.
+                        Seguimiento y monitoreo sobre el alumno.
                       </div>
                     </li>
                     <li class="media">
                       <i class="fas fa-square"></i>
                       <div class="media-body">
-                        Diseño y desarrollo de puntos de ventas.
+                        Gestión de recursos didácticos y actividades de formación.
                       </div>
                     </li>
                     <li class="media">
                       <i class="fas fa-square"></i>
                       <div class="media-body">
-                        Diseño y desarrollo de plataformas contables.
+                        Establece vías de comunicación entre el profesor y los alumnos.
                       </div>
                     </li>
                     <li class="media">
                       <i class="fas fa-square"></i>
                       <div class="media-body">
-                        Diseño y desarrollo de plataformas móviles
+                        Creación de espacios de aprendizaje colaborativo.
+                      </div>
+                    </li>
+                  </ul>
+                </div>
+                <!-- end of col -->
+
+                <div class="col-md-6">
+                  <ul class="list-unstyled li-space-lg indent">
+                    <li class="media">
+                      <i class="fas fa-square"></i>
+                      <div class="media-body">
+                        Presentación de cualquier contenido digital.
                       </div>
                     </li>
                     <li class="media">
                       <i class="fas fa-square"></i>
                       <div class="media-body">
-                        Diseño y desarrollo de plataformas web
+                        Accesible desde cualquier dispositivo.
+                      </div>
+                    </li>
+                    <li class="media">
+                      <i class="fas fa-square"></i>
+                      <div class="media-body">
+                        Fomenta el dominio de las TIC por parte de sus usuarios.
+                      </div>
+                    </li>
+                    <li class="media">
+                      <i class="fas fa-square"></i>
+                      <div class="media-body">
+                        Creación de cursos ilimitados.
                       </div>
                     </li>
                   </ul>
@@ -273,7 +321,9 @@
             </div>
             <!-- end of text-container -->
 
-            <div class="text-container"></div>
+            <div class="text-container">
+              <h3>Moodle en imágenes</h3>
+            </div>
             <!-- end of text container -->
 
             <!-- Screenshots -->
@@ -288,13 +338,13 @@
                           <!-- Slide -->
                           <div class="swiper-slide">
                             <a
-                              href="images/software/php.png"
+                              href="images/moodle/moodle1.jpg"
                               class="popup-link"
                               data-effect="fadeIn"
                             >
                               <img
                                 class="img-fluid"
-                                src="images/software/php.png"
+                                src="images/moodle/moodle1.jpg"
                                 alt="alternative"
                               />
                             </a>
@@ -304,13 +354,13 @@
                           <!-- Slide -->
                           <div class="swiper-slide">
                             <a
-                              href="images/software/mysql.jpg"
+                              href="images/moodle/moodle2.png"
                               class="popup-link"
                               data-effect="fadeIn"
                             >
                               <img
                                 class="img-fluid"
-                                src="images/software/mysql.jpg"
+                                src="images/moodle/moodle2.png"
                                 alt="alternative"
                               />
                             </a>
@@ -320,13 +370,13 @@
                           <!-- Slide -->
                           <div class="swiper-slide">
                             <a
-                              href="images/software/centos.jpg"
+                              href="images/moodle/moodle3.png"
                               class="popup-link"
                               data-effect="fadeIn"
                             >
                               <img
                                 class="img-fluid"
-                                src="images/software/centos.jpg"
+                                src="images/moodle/moodle3.png"
                                 alt="alternative"
                               />
                             </a>
@@ -336,13 +386,13 @@
                           <!-- Slide -->
                           <div class="swiper-slide">
                             <a
-                              href="images/software/postgres.jpg"
+                              href="images/moodle/moodle4.png"
                               class="popup-link"
                               data-effect="fadeIn"
                             >
                               <img
                                 class="img-fluid"
-                                src="images/software/postgres.jpg"
+                                src="images/moodle/moodle4.png"
                                 alt="alternative"
                               />
                             </a>
@@ -352,13 +402,13 @@
                           <!-- Slide -->
                           <div class="swiper-slide">
                             <a
-                              href="images/software/reactjs.jpg"
+                              href="images/moodle/moodle5.png"
                               class="popup-link"
                               data-effect="fadeIn"
                             >
                               <img
                                 class="img-fluid"
-                                src="images/software/reactjs.jpg"
+                                src="images/moodle/moodle5.png"
                                 alt="alternative"
                               />
                             </a>
@@ -368,13 +418,13 @@
                           <!-- Slide -->
                           <div class="swiper-slide">
                             <a
-                              href="images/software/python.jpg"
+                              href="images/moodle/moodle6.png"
                               class="popup-link"
                               data-effect="fadeIn"
                             >
                               <img
                                 class="img-fluid"
-                                src="images/software/python.jpg"
+                                src="images/moodle/moodle6.png"
                                 alt="alternative"
                               />
                             </a>
@@ -384,13 +434,13 @@
                           <!-- Slide -->
                           <div class="swiper-slide">
                             <a
-                              href="images/software/webtechs.jpg"
+                              href="images/moodle/moodle7.png"
                               class="popup-link"
                               data-effect="fadeIn"
                             >
                               <img
                                 class="img-fluid"
-                                src="images/software/webtechs.jpg"
+                                src="images/moodle/moodle7.png"
                                 alt="alternative"
                               />
                             </a>
@@ -488,7 +538,7 @@
               </div>
             </div>
 
-            <a class="btn-outline-reg back" href="index.html">Atrás</a>
+            <a class="btn-outline-reg back" href="index.php">Atrás</a>
           </div>
           <!-- end of col-->
         </div>
@@ -505,9 +555,9 @@
         <div class="row">
           <div class="col-lg-12">
             <div class="breadcrumbs">
-              <a href="index.html">Home</a
+              <a href="index.php">Home</a
               ><i class="fa fa-angle-double-right"></i
-              ><span>Software a la medida</span>
+              ><span>Implementación de Moodle</span>
             </div>
             <!-- end of breadcrumbs -->
           </div>
