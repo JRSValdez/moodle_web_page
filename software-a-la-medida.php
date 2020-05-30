@@ -87,16 +87,16 @@
       <!-- end of mobile menu toggle button -->
 
       <div class="collapse navbar-collapse" id="navbarsExampleDefault">
-        <ul class="navbar-nav ml-auto">
+      <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link page-scroll" href="#header">HOME</a>
+            <a class="nav-link page-scroll" href="https://roma-solutions.com">HOME</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link page-scroll" href="/#features">SERVICIOS</a>
+            <a class="nav-link page-scroll" href="https://roma-solutions.com/#features">SERVICIOS</a>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link page-scroll" href="/#contact">CONTACTO</a>
+            <a class="nav-link page-scroll" href="https://roma-solutions.com/#contact">CONTACTO</a>
           </li>
         </ul>
         <span class="nav-item social-icons">
@@ -109,7 +109,7 @@
           <span class="fa-stack">
             <a href="https://instagram.com/romasolutionssv" target="_blank">
               <i class="fas fa-circle fa-stack-2x"></i>
-              <i class="fab fa-twitter fa-stack-1x"></i>
+              <i class="fab fa-instagram fa-stack-1x"></i>
             </a>
           </span>
         </span>
