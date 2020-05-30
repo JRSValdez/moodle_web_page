@@ -7,7 +7,7 @@
 (function ($) {
   "use strict";
 
-  const API_URL = "https://roma-solutions-contact-form.now.sh/graphql";
+  const API_URL = "https://roma-solutions-contact-form-2.now.sh/graphql";
 
   /* Preloader */
   $(window).on("load", function () {
@@ -280,12 +280,9 @@
               }`,
     };
 
-    $.ajax({
-      type: "POST",
-      url: API_URL,
-      contentType: "application/json",
-      data: JSON.stringify(bodyRequest),
-      success: function (res) {
+    axios
+      .post(API_URL, bodyRequest)
+      .then((res) => {
         console.log(res);
         if (res.data.errors) {
           cformError();
@@ -293,8 +290,8 @@
         } else {
           cformSuccess();
         }
-      },
-    });
+      })
+      .then((err) => console.log(err));
   }
 
   function cformSuccess() {
