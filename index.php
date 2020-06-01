@@ -966,9 +966,9 @@
                     style="text-decoration: none;"
                     href="mailto:moodle.project.sv@gmail.com"
                   >
-                    <h5 class="ml-4">
+                    <h6 class="ml-4">
                       moodle.project.sv@gmail.com
-                    </h5>
+                    </h6>
                   </a>
                 </td>
               </tr>
